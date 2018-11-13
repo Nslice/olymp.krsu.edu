@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1530152126 source:c:\users\talgat\documents\projects\codeblocks\Беляев\task_5\main.cpp
+	"title.h"
+	<queue>
+	<fstream>
+
+1530151458 c:\users\talgat\documents\projects\codeblocks\Беляев\task_5\title.h
+	<iostream>
+	<graphics.h>
+	<windows.h>
+
